@@ -6,8 +6,8 @@ import { Hero } from "./components/main/hero/HeroSection";
 import "./Container.css";
 
 import { BestRecipes } from "./components/main/ourBestRecipes/BestRecipes";
-import { Contact } from "./components/main/contact/Contact";
 import Experiment from "./components/experiment/Experiment";
+import Presentation from './components/Presentation/Presentation';
 
 function Container() {
   return (
@@ -17,8 +17,9 @@ function Container() {
         <>
           <Header></Header>
           <Hero></Hero>
+          <Presentation></Presentation>
           <BestRecipes></BestRecipes>
-          <Contact></Contact>
+          {/* <Contact></Contact> */}
         </>}></Route>
 
         <Route exact path="/experiment/:id" element={<Experiment />}></Route>

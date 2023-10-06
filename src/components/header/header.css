@@ -17,6 +17,8 @@ header {
 }
 
 .logo h1 {
+  position: relative;
+  right: 20px;
   color: #92d362;
   font-size: 65px;
 }

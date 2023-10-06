@@ -20,7 +20,7 @@ import cientifico9 from '../assets/cientifico9.png'
 
 const EXPERIMENTOS = [
     {
-        title: "VELA QUE SUBE EL AGUA(FLOR Y ERIKA)",
+        title: "VELA QUE SUBE EL AGUA",
         materiales: ["Agua", "Plato", "Vaso", "Fuego", "Vela"],
         proceso: ["pegar la vela al plato", "Echar agua en el recipiente", "Poner el vaso hacia abajo para que suba el agua", "El agua sube y la vela se apaga"],
         explicacion: `Cuando la vela se va
@@ -39,7 +39,7 @@ const EXPERIMENTOS = [
         color: "33D90F"
     },
     {
-        title: "CASCADA DE HUMO(KAREN Y ANDRES)",
+        title: "CASCADA DE HUMO",
         materiales: ["Agua", "Plato", "Vaso", "Fuego", "Vela"],
         proceso: ["Enrollar una hoja", "Quemar una hoja y prender hacia abajo", "Empieza a salir el humo y cae como cascada"],
         explicacion: `En este caso, el vaso donde
@@ -59,7 +59,7 @@ const EXPERIMENTOS = [
         color: "35D90F"
     },
     {
-        title: "VOLCAN EN ERUPCIÓN ENITH, CESAR, JULIETH",
+        title: "VOLCAN EN ERUPCIÓN",
         materiales: ["Pegamento", "Periódico,", "Plastilina", "Vinagre", "Bicarbonato", "Agua", "Arcilla"],
         proceso: ["Se mezcla la arcilla con la plastilina sobre la base para hacer una forma de volcán", "Se mezcla agua, colorante rojo, vinagre, después le mezcla todo.", "El bicarbonato de sodio y empieza hacer erupción"],
         explicacion: `Cuando mezclas el vinagre,
@@ -78,7 +78,7 @@ const EXPERIMENTOS = [
         color: "BE6CDA"
     },
     {
-        title: "VIBRACIONES (MARIA Y MATERIALES JOHAN)",
+        title: "VIBRACIONES",
         materiales: ["Cartón", "Pila", "Aluminio", "Palo de dulce", "Motor", "Silicona"],
         proceso: ["El motor y la pila se pegan en el cartón y las patas de aluminio son de soporte", "Se conecta y comienza la araña a moverse"],
         explicacion: `La araña comienza a
@@ -96,7 +96,7 @@ const EXPERIMENTOS = [
         color: "33E3F8"
     },
     {
-        title: "HUEVO SALTARIN EDWAR Y JESUS",
+        title: "HUEVO SALTARIN",
         materiales: ["Huevo", "Vinagre"],
         proceso: ["Dejar 48 horas el huevo en el vinagre"],
         explicacion: `Después de dos días, ¡éste
@@ -115,7 +115,7 @@ const EXPERIMENTOS = [
         color: "F833AD"
     },
     {
-        title: "GLOBO QUE SE INFLA SOLO (CUPITRA Y MOSQUERA)",
+        title: "GLOBO QUE SE INFLA SOLO",
         materiales: ["Bicarbonato", "Bomba", "Vinagre", "Botella"],
         proceso: ["Juntamos la base, vinagre y bicarbonato se produce energía", "Agua, sodio y dióxido de carbono"],
         explicacion: `El aire caliente que hay
@@ -134,7 +134,7 @@ const EXPERIMENTOS = [
         color: "A0E9EF"
     },
     {
-        title: "LOS PULMONES (FRANSIS)",
+        title: "LOS PULMONES",
         materiales: ["Botella", "Bomba", "Cinta", "Pitillos"],
         proceso: ["Realizar un pequeño orificio en la botella", "Taparlo de nuevo con cinta adhesiva"],
         explicacion: `El volumen dentro de la
@@ -153,7 +153,7 @@ const EXPERIMENTOS = [
         color: "EDA0EF"
     },
     {
-        title: "MASA NO NEWTONIANA MATERIALES MARIA Y JOHAN",
+        title: "MASA NO NEWTONIANA",
         materiales: ["Agua", "Maizena"],
         proceso: ["Echar agua en la Maizena y revolver formando este tipo de masa"],
         explicacion: `El Fluido no newtoniano es
@@ -171,7 +171,7 @@ const EXPERIMENTOS = [
         color: "A0A2EF"
     },
     {
-        title: "MAIZ BAILARIN FLOR Y ERIKA",
+        title: "MAIZ BAILARIN",
         materiales: ["Bicarbontao", "Vinagre", "Agua", "Sal", "Maiz", "Vaso de vidrio"],
         proceso: ["Vierta la media taza de agua en el frasco o vaso alto.", "Agregue colorante para alimentos al agua y mezcle.", "Vierta el vinagre blanco", "Agregue los granos de maíz.", "Agregue bicarbonato de sodio y prepárese para el espectáculo."],
         explicacion: `El secreto del maíz bailarín

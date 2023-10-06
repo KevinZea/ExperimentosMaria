@@ -7,7 +7,7 @@ section {
 }
 
 .contentWrapper {
-    width: 85%;
+    width: 100%;
     height: 655px;
     display: flex;
     align-items: center;
@@ -16,10 +16,15 @@ section {
 }
 
 .leftContent {
-    width: 35%;
-    height: 45%;
-    display: flex;
-    flex-flow: row wrap;
+    width: 50%;
+    height: 655px;
+    position: absolute;
+    z-index: -1;
+    top: 0;
+}
+.leftContent img{
+    width: 98%;
+    height: 100%;
 }
 
 .leftContent input {
@@ -60,4 +65,5 @@ section {
     right: 0;
     z-index: -1;
     width: 50%;
+    height: 655px;
 }

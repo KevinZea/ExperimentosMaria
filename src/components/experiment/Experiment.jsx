@@ -27,7 +27,7 @@ export default function Experiment() {
         </div>
         <div className='hoja-proceso'>
           <h1>PROCESO</h1>
-          {data.materiales.map((e) => {
+          {data.proceso.map((e) => {
             return(
               <ul>
                 <li>{e}</li>
